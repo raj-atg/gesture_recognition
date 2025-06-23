@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm project files
+.idea/
+
+# macOS/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and data
+*.log
+*.pickle
+gesture_data_simple.pickle
+gesture_model_simple.pickle
